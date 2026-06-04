@@ -151,10 +151,6 @@ flutter run
 ## المخرجات 
 
 
-<p align="center">
-    <img width="300"  alt="fav" src="https://github.com/user-attachments/assets/f8af122a-af5a-43f1-a1f8-a46133d3fcb3" />
-<img width="300"  alt="fav2" src="https://github.com/user-attachments/assets/5ec5f039-d1e0-4136-8f97-010b9ddb6b1a" />
-    </p>
 
   <p align="center">
 <img width="300" alt="hmhm" src="https://github.com/user-attachments/assets/e03e7dde-5b69-4098-aa78-901e9b4f47a6" />
@@ -162,6 +158,10 @@ flutter run
 
 </p>
 
+<p align="center">
+    <img width="300"  alt="fav" src="https://github.com/user-attachments/assets/f8af122a-af5a-43f1-a1f8-a46133d3fcb3" />
+<img width="300"  alt="fav2" src="https://github.com/user-attachments/assets/5ec5f039-d1e0-4136-8f97-010b9ddb6b1a" />
+    </p>
 
 ---
 
