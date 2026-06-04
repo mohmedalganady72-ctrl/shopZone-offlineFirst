@@ -146,12 +146,14 @@ flutter run
 | `/products` | جلب قائمة المنتجات | `?limit=30&skip=0` |
 | `/products/search` | البحث في المنتجات | `?q=phone` |
 
+---
+
 ## المخرجات 
 
 
 <p align="center">
     <img width="300"  alt="fav" src="https://github.com/user-attachments/assets/f8af122a-af5a-43f1-a1f8-a46133d3fcb3" />
-<img width="1211" height="2474" alt="fav2" src="https://github.com/user-attachments/assets/5ec5f039-d1e0-4136-8f97-010b9ddb6b1a" />
+<img width="300"  alt="fav2" src="https://github.com/user-attachments/assets/5ec5f039-d1e0-4136-8f97-010b9ddb6b1a" />
     </p>
 
   <p align="center">
